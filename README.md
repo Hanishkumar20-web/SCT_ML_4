@@ -133,4 +133,3 @@ The trained model predicts hand gestures from unseen images and provides confide
 
 Hanish Kumar
 
-This project is developed for educational and internship purposes.
